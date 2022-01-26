@@ -4,9 +4,6 @@ The imput - .csv file with 5 collumns:
     - ID - Client_ID 
     - ID - Client_ID 
     - Product_ID
-    - 
-    
-- 
 
 Output:
     - A graph of relstions between owners 
